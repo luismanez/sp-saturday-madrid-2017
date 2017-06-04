@@ -1,0 +1,6 @@
+{
+    "web": {
+        "base_url": "https://<TENANT>.sharepoint.com/sites/<SITE>",
+        "client_id": "my_secret_client_id"
+    }
+}

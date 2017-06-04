@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/toolchainDemo/ToolchainDemoWebPart.js",
+      "manifest": "./src/webparts/toolchainDemo/ToolchainDemoWebPart.manifest.json",
+      "outputPath": "./dist/toolchain-demo.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "toolchainDemoStrings": "webparts/toolchainDemo/loc/{locale}.js"
+  },
+  "myConfig": {
+    "spTenantUrl": "https://<TENANT>.sharepoint.com/",
+    "cdnSiteRelativeUrl": "sites/<SITE>",
+    "cdnLibraryPath": "<CDN_LIBRARY_PATH>",
+    "username": "<USER>@<TENANT>.onmicrosoft.com",
+    "password": "<PASSWORD>"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfx-toolchain-demo-client-side-solution",
+    "id": "0e3f5b51-a52b-45c3-b3f2-a1fa6af436cb",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-toolchain-demo.sppkg"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "6ac016bf-3eb0-476d-ac8a-d8f4ff5e69d1",
+  "alias": "ToolchainDemoWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "6ac016bf-3eb0-476d-ac8a-d8f4ff5e69d1",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ToolchainDemo" },
+    "description": { "default": "Webpart used in the spfx toolchain demo" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "ToolchainDemo"
+    }
+  }]
+}
